@@ -188,6 +188,9 @@
 		B52F51CD1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
 		B52F51CE1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
 		B52F51CF1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B5AE42B31BA6004B000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
+		B5AE42B41BA604F7000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
+		B5AE42B51BA6061B000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -271,6 +274,7 @@
 		B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxwell.jpg; sourceTree = "<group>"; };
 		B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Steve Jobs.jpg"; sourceTree = "<group>"; };
 		B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wilhelm Conrad Rontgen.jpg"; sourceTree = "<group>"; };
+		B5AE42B21BA6004B000CF83E /* Savant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Savant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -401,6 +405,7 @@
 		B52F50061BA5ED6A0038AD2B /* module 01 */ = {
 			isa = PBXGroup;
 			children = (
+				B5AE42B01BA5FFDB000CF83E /* Les Classes */,
 				B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */,
 				B52F500B1BA5ED6A0038AD2B /* ViewController.swift */,
 				B52F500D1BA5ED6A0038AD2B /* Main.storyboard */,
@@ -522,6 +527,7 @@
 		B52F50A31BA5EE7E0038AD2B /* module 01.solution */ = {
 			isa = PBXGroup;
 			children = (
+				B5AE42B11BA5FFF5000CF83E /* Les Classes */,
 				B52F50A61BA5EE7E0038AD2B /* AppDelegate.swift */,
 				B52F50A81BA5EE7E0038AD2B /* ViewController.swift */,
 				B52F50AA1BA5EE7E0038AD2B /* Main.storyboard */,
@@ -624,6 +630,21 @@
 				B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */,
 			);
 			path = "Photos - Les amis de la science";
+			sourceTree = "<group>";
+		};
+		B5AE42B01BA5FFDB000CF83E /* Les Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Les Classes";
+			sourceTree = "<group>";
+		};
+		B5AE42B11BA5FFF5000CF83E /* Les Classes */ = {
+			isa = PBXGroup;
+			children = (
+				B5AE42B21BA6004B000CF83E /* Savant.swift */,
+			);
+			name = "Les Classes";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1100,6 +1121,7 @@
 			files = (
 				B52F50331BA5EDCD0038AD2B /* ViewController.swift in Sources */,
 				B52F50311BA5EDCD0038AD2B /* AppDelegate.swift in Sources */,
+				B5AE42B41BA604F7000CF83E /* Savant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1127,6 +1149,7 @@
 			files = (
 				B52F50A91BA5EE7E0038AD2B /* ViewController.swift in Sources */,
 				B52F50A71BA5EE7E0038AD2B /* AppDelegate.swift in Sources */,
+				B5AE42B31BA6004B000CF83E /* Savant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1136,6 +1159,7 @@
 			files = (
 				B52F50CF1BA5EE8A0038AD2B /* ViewController.swift in Sources */,
 				B52F50CD1BA5EE8A0038AD2B /* AppDelegate.swift in Sources */,
+				B5AE42B51BA6061B000CF83E /* Savant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1619,6 +1643,7 @@
 				B52F4FFC1BA5ECEC0038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F50211BA5ED6A0038AD2B /* Build configuration list for PBXNativeTarget "module 01" */ = {
 			isa = XCConfigurationList;
@@ -1627,6 +1652,7 @@
 				B52F50231BA5ED6A0038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F50481BA5EDCD0038AD2B /* Build configuration list for PBXNativeTarget "module 02" */ = {
 			isa = XCConfigurationList;
@@ -1635,6 +1661,7 @@
 				B52F504A1BA5EDCD0038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F506E1BA5EDDB0038AD2B /* Build configuration list for PBXNativeTarget "module 03" */ = {
 			isa = XCConfigurationList;
@@ -1643,6 +1670,7 @@
 				B52F50701BA5EDDB0038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F50941BA5EE1C0038AD2B /* Build configuration list for PBXNativeTarget "module 04" */ = {
 			isa = XCConfigurationList;
@@ -1651,6 +1679,7 @@
 				B52F50961BA5EE1C0038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F50BE1BA5EE7E0038AD2B /* Build configuration list for PBXNativeTarget "module 01.solution" */ = {
 			isa = XCConfigurationList;
@@ -1659,6 +1688,7 @@
 				B52F50C01BA5EE7E0038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F50E41BA5EE8A0038AD2B /* Build configuration list for PBXNativeTarget "module 02.solution" */ = {
 			isa = XCConfigurationList;
@@ -1667,6 +1697,7 @@
 				B52F50E61BA5EE8A0038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F510A1BA5EE990038AD2B /* Build configuration list for PBXNativeTarget "module 03.solution" */ = {
 			isa = XCConfigurationList;
@@ -1675,6 +1706,7 @@
 				B52F510C1BA5EE990038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52F51301BA5EEA70038AD2B /* Build configuration list for PBXNativeTarget "module 04.solution" */ = {
 			isa = XCConfigurationList;
@@ -1683,6 +1715,7 @@
 				B52F51321BA5EEA70038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
