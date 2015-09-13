@@ -13,6 +13,7 @@ class ViewController: UIViewController, UITableViewDataSource {
     var lesAmisDeLaScienceData:[Dictionary<String,String>] = []
     
     // *****************************************************
+    @IBOutlet weak var CVSavant: UICollectionView!
     override func viewDidLoad()
         // *****************************************************
     {

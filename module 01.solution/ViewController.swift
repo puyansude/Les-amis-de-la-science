@@ -10,7 +10,9 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource {
    
+   
     let lesAmisDeLaScienceData:[Dictionary<String,String>] = [
+    @IBOutlet weak var CVSavant: UICollectionView!
         
         ["nom":"Albert Einstein",       "photo":"Albert Einstein.jpg",          "texte":"lorem ipsum01 ...", "naissance":"1900"],
         ["nom":"Albert Jacquard",       "photo":"Albert Jacquard.jpg",          "texte":"lorem ipsum02 ...", "naissance":"1900"],

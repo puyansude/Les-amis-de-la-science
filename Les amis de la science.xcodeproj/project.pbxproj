@@ -191,6 +191,12 @@
 		B5AE42B31BA6004B000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
 		B5AE42B41BA604F7000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
 		B5AE42B51BA6061B000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
+		B5AE42B71BA60CAE000CF83E /* CVCSavant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B61BA60CAE000CF83E /* CVCSavant.swift */; };
+		B5AE42B81BA60CAE000CF83E /* CVCSavant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B61BA60CAE000CF83E /* CVCSavant.swift */; };
+		B5AE42B91BA60CAE000CF83E /* CVCSavant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B61BA60CAE000CF83E /* CVCSavant.swift */; };
+		B5AE42BA1BA60CAE000CF83E /* CVCSavant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B61BA60CAE000CF83E /* CVCSavant.swift */; };
+		B5AE42BC1BA61512000CF83E /* VCDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42BB1BA61512000CF83E /* VCDetails.swift */; };
+		B5AE42BD1BA61512000CF83E /* VCDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42BB1BA61512000CF83E /* VCDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -275,6 +281,8 @@
 		B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Steve Jobs.jpg"; sourceTree = "<group>"; };
 		B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wilhelm Conrad Rontgen.jpg"; sourceTree = "<group>"; };
 		B5AE42B21BA6004B000CF83E /* Savant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Savant.swift; sourceTree = "<group>"; };
+		B5AE42B61BA60CAE000CF83E /* CVCSavant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CVCSavant.swift; sourceTree = "<group>"; };
+		B5AE42BB1BA61512000CF83E /* VCDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VCDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -405,7 +413,6 @@
 		B52F50061BA5ED6A0038AD2B /* module 01 */ = {
 			isa = PBXGroup;
 			children = (
-				B5AE42B01BA5FFDB000CF83E /* Les Classes */,
 				B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */,
 				B52F500B1BA5ED6A0038AD2B /* ViewController.swift */,
 				B52F500D1BA5ED6A0038AD2B /* Main.storyboard */,
@@ -490,6 +497,7 @@
 		B52F509A1BA5EE380038AD2B /* Ressources */ = {
 			isa = PBXGroup;
 			children = (
+				B5AE42B11BA5FFF5000CF83E /* Les Classes */,
 				B52F4FDD1BA5ECEC0038AD2B /* Les amis de la science */,
 				B52F509C1BA5EE550038AD2B /* Données */,
 				B52F509B1BA5EE450038AD2B /* Images */,
@@ -527,7 +535,6 @@
 		B52F50A31BA5EE7E0038AD2B /* module 01.solution */ = {
 			isa = PBXGroup;
 			children = (
-				B5AE42B11BA5FFF5000CF83E /* Les Classes */,
 				B52F50A61BA5EE7E0038AD2B /* AppDelegate.swift */,
 				B52F50A81BA5EE7E0038AD2B /* ViewController.swift */,
 				B52F50AA1BA5EE7E0038AD2B /* Main.storyboard */,
@@ -632,19 +639,15 @@
 			path = "Photos - Les amis de la science";
 			sourceTree = "<group>";
 		};
-		B5AE42B01BA5FFDB000CF83E /* Les Classes */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "Les Classes";
-			sourceTree = "<group>";
-		};
 		B5AE42B11BA5FFF5000CF83E /* Les Classes */ = {
 			isa = PBXGroup;
 			children = (
 				B5AE42B21BA6004B000CF83E /* Savant.swift */,
+				B5AE42B61BA60CAE000CF83E /* CVCSavant.swift */,
+				B5AE42BB1BA61512000CF83E /* VCDetails.swift */,
 			);
 			name = "Les Classes";
+			path = "module 01.solution";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1129,6 +1132,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5AE42B71BA60CAE000CF83E /* CVCSavant.swift in Sources */,
 				B52F50591BA5EDDB0038AD2B /* ViewController.swift in Sources */,
 				B52F50571BA5EDDB0038AD2B /* AppDelegate.swift in Sources */,
 			);
@@ -1138,6 +1142,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5AE42B81BA60CAE000CF83E /* CVCSavant.swift in Sources */,
+				B5AE42BC1BA61512000CF83E /* VCDetails.swift in Sources */,
 				B52F507F1BA5EE1C0038AD2B /* ViewController.swift in Sources */,
 				B52F507D1BA5EE1C0038AD2B /* AppDelegate.swift in Sources */,
 			);
@@ -1167,6 +1173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5AE42B91BA60CAE000CF83E /* CVCSavant.swift in Sources */,
 				B52F50F51BA5EE990038AD2B /* ViewController.swift in Sources */,
 				B52F50F31BA5EE990038AD2B /* AppDelegate.swift in Sources */,
 			);
@@ -1176,6 +1183,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5AE42BA1BA60CAE000CF83E /* CVCSavant.swift in Sources */,
+				B5AE42BD1BA61512000CF83E /* VCDetails.swift in Sources */,
 				B52F511B1BA5EEA70038AD2B /* ViewController.swift in Sources */,
 				B52F51191BA5EEA70038AD2B /* AppDelegate.swift in Sources */,
 			);
