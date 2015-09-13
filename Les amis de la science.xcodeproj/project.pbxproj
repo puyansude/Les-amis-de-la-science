@@ -413,6 +413,7 @@
 		B52F50061BA5ED6A0038AD2B /* module 01 */ = {
 			isa = PBXGroup;
 			children = (
+				B5AE42C01BA62528000CF83E /* Les classes */,
 				B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */,
 				B52F500B1BA5ED6A0038AD2B /* ViewController.swift */,
 				B52F500D1BA5ED6A0038AD2B /* Main.storyboard */,
@@ -648,6 +649,13 @@
 			);
 			name = "Les Classes";
 			path = "module 01.solution";
+			sourceTree = "<group>";
+		};
+		B5AE42C01BA62528000CF83E /* Les classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Les classes";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

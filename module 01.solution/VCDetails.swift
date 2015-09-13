@@ -10,6 +10,9 @@ import UIKit
 
 class VCDetails: UIViewController {
 
+    @IBOutlet weak var savantNom: UILabel!
+    @IBOutlet weak var savantImage: UIImageView!
+    @IBOutlet weak var savantTexte: UITextView!
     
     @IBAction func retourALaListe(sender: AnyObject) {
  self.dismissViewControllerAnimated(true, completion:nil)
@@ -22,6 +25,12 @@ class VCDetails: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         println("Nous avons reçu les données suivantes:\n\(informationsDuSavantCourant)")
+        
+        savantNom.text      = informationsDuSavantCourant["nom"]!
+        savantImage.image   =  UIImage(named: informationsDuSavantCourant["photo"]!)
+        savantTexte.text    = informationsDuSavantCourant["texte"]!
+        
+        
     } // viewDidLoad
 
     /*
