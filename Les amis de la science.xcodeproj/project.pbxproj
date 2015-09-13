@@ -12,18 +12,183 @@
 		B52F4FE61BA5ECEC0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F4FE41BA5ECEC0038AD2B /* Main.storyboard */; };
 		B52F4FE81BA5ECEC0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F4FE71BA5ECEC0038AD2B /* Images.xcassets */; };
 		B52F4FEB1BA5ECEC0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F4FE91BA5ECEC0038AD2B /* LaunchScreen.xib */; };
-		B52F4FF71BA5ECEC0038AD2B /* Les_amis_de_la_scienceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F4FF61BA5ECEC0038AD2B /* Les_amis_de_la_scienceTests.swift */; };
+		B52F500A1BA5ED6A0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */; };
+		B52F500C1BA5ED6A0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F500B1BA5ED6A0038AD2B /* ViewController.swift */; };
+		B52F500F1BA5ED6A0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F500D1BA5ED6A0038AD2B /* Main.storyboard */; };
+		B52F50111BA5ED6A0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50101BA5ED6A0038AD2B /* Images.xcassets */; };
+		B52F50141BA5ED6A0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50121BA5ED6A0038AD2B /* LaunchScreen.xib */; };
+		B52F50311BA5EDCD0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50301BA5EDCD0038AD2B /* AppDelegate.swift */; };
+		B52F50331BA5EDCD0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50321BA5EDCD0038AD2B /* ViewController.swift */; };
+		B52F50361BA5EDCD0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F50341BA5EDCD0038AD2B /* Main.storyboard */; };
+		B52F50381BA5EDCD0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50371BA5EDCD0038AD2B /* Images.xcassets */; };
+		B52F503B1BA5EDCD0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50391BA5EDCD0038AD2B /* LaunchScreen.xib */; };
+		B52F50571BA5EDDB0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50561BA5EDDB0038AD2B /* AppDelegate.swift */; };
+		B52F50591BA5EDDB0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50581BA5EDDB0038AD2B /* ViewController.swift */; };
+		B52F505C1BA5EDDB0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F505A1BA5EDDB0038AD2B /* Main.storyboard */; };
+		B52F505E1BA5EDDB0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F505D1BA5EDDB0038AD2B /* Images.xcassets */; };
+		B52F50611BA5EDDB0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F505F1BA5EDDB0038AD2B /* LaunchScreen.xib */; };
+		B52F507D1BA5EE1C0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F507C1BA5EE1C0038AD2B /* AppDelegate.swift */; };
+		B52F507F1BA5EE1C0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F507E1BA5EE1C0038AD2B /* ViewController.swift */; };
+		B52F50821BA5EE1C0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F50801BA5EE1C0038AD2B /* Main.storyboard */; };
+		B52F50841BA5EE1C0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50831BA5EE1C0038AD2B /* Images.xcassets */; };
+		B52F50871BA5EE1C0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50851BA5EE1C0038AD2B /* LaunchScreen.xib */; };
+		B52F50A71BA5EE7E0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50A61BA5EE7E0038AD2B /* AppDelegate.swift */; };
+		B52F50A91BA5EE7E0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50A81BA5EE7E0038AD2B /* ViewController.swift */; };
+		B52F50AC1BA5EE7E0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F50AA1BA5EE7E0038AD2B /* Main.storyboard */; };
+		B52F50AE1BA5EE7E0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50AD1BA5EE7E0038AD2B /* Images.xcassets */; };
+		B52F50B11BA5EE7E0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50AF1BA5EE7E0038AD2B /* LaunchScreen.xib */; };
+		B52F50CD1BA5EE8A0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50CC1BA5EE8A0038AD2B /* AppDelegate.swift */; };
+		B52F50CF1BA5EE8A0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50CE1BA5EE8A0038AD2B /* ViewController.swift */; };
+		B52F50D21BA5EE8A0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F50D01BA5EE8A0038AD2B /* Main.storyboard */; };
+		B52F50D41BA5EE8A0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50D31BA5EE8A0038AD2B /* Images.xcassets */; };
+		B52F50D71BA5EE8A0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50D51BA5EE8A0038AD2B /* LaunchScreen.xib */; };
+		B52F50F31BA5EE990038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50F21BA5EE990038AD2B /* AppDelegate.swift */; };
+		B52F50F51BA5EE990038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50F41BA5EE990038AD2B /* ViewController.swift */; };
+		B52F50F81BA5EE990038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F50F61BA5EE990038AD2B /* Main.storyboard */; };
+		B52F50FA1BA5EE990038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50F91BA5EE990038AD2B /* Images.xcassets */; };
+		B52F50FD1BA5EE990038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50FB1BA5EE990038AD2B /* LaunchScreen.xib */; };
+		B52F51191BA5EEA70038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F51181BA5EEA70038AD2B /* AppDelegate.swift */; };
+		B52F511B1BA5EEA70038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F511A1BA5EEA70038AD2B /* ViewController.swift */; };
+		B52F511E1BA5EEA70038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F511C1BA5EEA70038AD2B /* Main.storyboard */; };
+		B52F51201BA5EEA70038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F511F1BA5EEA70038AD2B /* Images.xcassets */; };
+		B52F51231BA5EEA70038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F51211BA5EEA70038AD2B /* LaunchScreen.xib */; };
+		B52F51371BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F51381BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F51391BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F513A1BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F513B1BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F513C1BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F513D1BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F513E1BA5EF310038AD2B /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = B52F51361BA5EF310038AD2B /* amisDelaScience.plist */; };
+		B52F51501BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51511BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51521BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51531BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51541BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51551BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51561BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51571BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */; };
+		B52F51581BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F51591BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F515A1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F515B1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F515C1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F515D1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F515E1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F515F1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */; };
+		B52F51601BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51611BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51621BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51631BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51641BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51651BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51661BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51671BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */; };
+		B52F51681BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F51691BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F516A1BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F516B1BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F516C1BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F516D1BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F516E1BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F516F1BA5EF4D0038AD2B /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51431BA5EF4D0038AD2B /* Braun.jpg */; };
+		B52F51701BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51711BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51721BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51731BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51741BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51751BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51761BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51771BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */; };
+		B52F51781BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F51791BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F517A1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F517B1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F517C1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F517D1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F517E1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F517F1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */; };
+		B52F51801BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51811BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51821BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51831BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51841BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51851BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51861BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51871BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */; };
+		B52F51881BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F51891BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F518A1BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F518B1BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F518C1BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F518D1BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F518E1BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F518F1BA5EF4D0038AD2B /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51471BA5EF4D0038AD2B /* Galilée.jpg */; };
+		B52F51901BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51911BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51921BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51931BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51941BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51951BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51961BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51971BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */; };
+		B52F51981BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F51991BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F519A1BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F519B1BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F519C1BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F519D1BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F519E1BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F519F1BA5EF4D0038AD2B /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F51491BA5EF4D0038AD2B /* Hertz.jpg */; };
+		B52F51A01BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A11BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A21BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A31BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A41BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A51BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A61BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A71BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */; };
+		B52F51A81BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51A91BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51AA1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51AB1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51AC1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51AD1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51AE1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51AF1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */; };
+		B52F51B01BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B11BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B21BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B31BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B41BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B51BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B61BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B71BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */; };
+		B52F51B81BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51B91BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51BA1BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51BB1BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51BC1BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51BD1BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51BE1BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51BF1BA5EF4D0038AD2B /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */; };
+		B52F51C01BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C11BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C21BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C31BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C41BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C51BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C61BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C71BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */; };
+		B52F51C81BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B52F51C91BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B52F51CA1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B52F51CB1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B52F51CC1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B52F51CD1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B52F51CE1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B52F51CF1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		B52F4FF11BA5ECEC0038AD2B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = B52F4FD31BA5ECEC0038AD2B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B52F4FDA1BA5ECEC0038AD2B;
-			remoteInfo = "Les amis de la science";
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		B52F4FDB1BA5ECEC0038AD2B /* Les amis de la science.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Les amis de la science.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -33,9 +198,79 @@
 		B52F4FE51BA5ECEC0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B52F4FE71BA5ECEC0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B52F4FEA1BA5ECEC0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		B52F4FF01BA5ECEC0038AD2B /* Les amis de la scienceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Les amis de la scienceTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B52F4FF51BA5ECEC0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B52F4FF61BA5ECEC0038AD2B /* Les_amis_de_la_scienceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Les_amis_de_la_scienceTests.swift; sourceTree = "<group>"; };
+		B52F50051BA5ED6A0038AD2B /* module 01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 01.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F50081BA5ED6A0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F500B1BA5ED6A0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F500E1BA5ED6A0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F50101BA5ED6A0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F50131BA5ED6A0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F502C1BA5EDCD0038AD2B /* module 02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 02.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F502F1BA5EDCD0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F50301BA5EDCD0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F50321BA5EDCD0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F50351BA5EDCD0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F50371BA5EDCD0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F503A1BA5EDCD0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F50521BA5EDDB0038AD2B /* module 03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 03.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F50551BA5EDDB0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F50561BA5EDDB0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F50581BA5EDDB0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F505B1BA5EDDB0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F505D1BA5EDDB0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F50601BA5EDDB0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F50781BA5EE1C0038AD2B /* module 04.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 04.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F507B1BA5EE1C0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F507C1BA5EE1C0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F507E1BA5EE1C0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F50811BA5EE1C0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F50831BA5EE1C0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F50861BA5EE1C0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F50A21BA5EE7E0038AD2B /* module 01.solution.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 01.solution.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F50A51BA5EE7E0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F50A61BA5EE7E0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F50A81BA5EE7E0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F50AB1BA5EE7E0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F50AD1BA5EE7E0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F50B01BA5EE7E0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F50C81BA5EE8A0038AD2B /* module 02.solution.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 02.solution.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F50CB1BA5EE8A0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F50CC1BA5EE8A0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F50CE1BA5EE8A0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F50D11BA5EE8A0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F50D31BA5EE8A0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F50D61BA5EE8A0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F50EE1BA5EE990038AD2B /* module 03.solution.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 03.solution.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F50F11BA5EE990038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F50F21BA5EE990038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F50F41BA5EE990038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F50F71BA5EE990038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F50F91BA5EE990038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F50FC1BA5EE990038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F51141BA5EEA70038AD2B /* module 04.solution.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 04.solution.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F51171BA5EEA70038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B52F51181BA5EEA70038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B52F511A1BA5EEA70038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F511D1BA5EEA70038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B52F511F1BA5EEA70038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B52F51221BA5EEA70038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		B52F51361BA5EF310038AD2B /* amisDelaScience.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = amisDelaScience.plist; sourceTree = "<group>"; };
+		B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Albert Einstein.jpg"; sourceTree = "<group>"; };
+		B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Albert Jacquard.jpg"; sourceTree = "<group>"; };
+		B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blaise Pascal.jpg"; sourceTree = "<group>"; };
+		B52F51431BA5EF4D0038AD2B /* Braun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Braun.jpg; sourceTree = "<group>"; };
+		B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Christian Huygens.jpg"; sourceTree = "<group>"; };
+		B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Daniel Fahrenheit.jpg"; sourceTree = "<group>"; };
+		B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dennis Ritchie.jpg"; sourceTree = "<group>"; };
+		B52F51471BA5EF4D0038AD2B /* Galilée.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Galilée.jpg"; sourceTree = "<group>"; };
+		B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Henri Becquerel.jpg"; sourceTree = "<group>"; };
+		B52F51491BA5EF4D0038AD2B /* Hertz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hertz.jpg; sourceTree = "<group>"; };
+		B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jean Perrin.jpg"; sourceTree = "<group>"; };
+		B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Karl Guthe Jansky.jpg"; sourceTree = "<group>"; };
+		B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Marie Curie.jpg"; sourceTree = "<group>"; };
+		B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxwell.jpg; sourceTree = "<group>"; };
+		B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Steve Jobs.jpg"; sourceTree = "<group>"; };
+		B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wilhelm Conrad Rontgen.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +281,56 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B52F4FED1BA5ECEC0038AD2B /* Frameworks */ = {
+		B52F50021BA5ED6A0038AD2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50291BA5EDCD0038AD2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F504F1BA5EDDB0038AD2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50751BA5EE1C0038AD2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F509F1BA5EE7E0038AD2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50C51BA5EE8A0038AD2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50EB1BA5EE990038AD2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F51111BA5EEA70038AD2B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -59,8 +343,9 @@
 		B52F4FD21BA5ECEC0038AD2B = {
 			isa = PBXGroup;
 			children = (
-				B52F4FDD1BA5ECEC0038AD2B /* Les amis de la science */,
-				B52F4FF31BA5ECEC0038AD2B /* Les amis de la scienceTests */,
+				B52F50001BA5ECFA0038AD2B /* Départs */,
+				B52F509D1BA5EE660038AD2B /* Solutions */,
+				B52F509A1BA5EE380038AD2B /* Ressources */,
 				B52F4FDC1BA5ECEC0038AD2B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -69,7 +354,14 @@
 			isa = PBXGroup;
 			children = (
 				B52F4FDB1BA5ECEC0038AD2B /* Les amis de la science.app */,
-				B52F4FF01BA5ECEC0038AD2B /* Les amis de la scienceTests.xctest */,
+				B52F50051BA5ED6A0038AD2B /* module 01.app */,
+				B52F502C1BA5EDCD0038AD2B /* module 02.app */,
+				B52F50521BA5EDDB0038AD2B /* module 03.app */,
+				B52F50781BA5EE1C0038AD2B /* module 04.app */,
+				B52F50A21BA5EE7E0038AD2B /* module 01.solution.app */,
+				B52F50C81BA5EE8A0038AD2B /* module 02.solution.app */,
+				B52F50EE1BA5EE990038AD2B /* module 03.solution.app */,
+				B52F51141BA5EEA70038AD2B /* module 04.solution.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,21 +387,243 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B52F4FF31BA5ECEC0038AD2B /* Les amis de la scienceTests */ = {
+		B52F50001BA5ECFA0038AD2B /* Départs */ = {
 			isa = PBXGroup;
 			children = (
-				B52F4FF61BA5ECEC0038AD2B /* Les_amis_de_la_scienceTests.swift */,
-				B52F4FF41BA5ECEC0038AD2B /* Supporting Files */,
+				B52F50061BA5ED6A0038AD2B /* module 01 */,
+				B52F502D1BA5EDCD0038AD2B /* module 02 */,
+				B52F50531BA5EDDB0038AD2B /* module 03 */,
+				B52F50791BA5EE1C0038AD2B /* module 04 */,
 			);
-			path = "Les amis de la scienceTests";
+			name = "Départs";
 			sourceTree = "<group>";
 		};
-		B52F4FF41BA5ECEC0038AD2B /* Supporting Files */ = {
+		B52F50061BA5ED6A0038AD2B /* module 01 */ = {
 			isa = PBXGroup;
 			children = (
-				B52F4FF51BA5ECEC0038AD2B /* Info.plist */,
+				B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */,
+				B52F500B1BA5ED6A0038AD2B /* ViewController.swift */,
+				B52F500D1BA5ED6A0038AD2B /* Main.storyboard */,
+				B52F50101BA5ED6A0038AD2B /* Images.xcassets */,
+				B52F50121BA5ED6A0038AD2B /* LaunchScreen.xib */,
+				B52F50071BA5ED6A0038AD2B /* Supporting Files */,
+			);
+			path = "module 01";
+			sourceTree = "<group>";
+		};
+		B52F50071BA5ED6A0038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50081BA5ED6A0038AD2B /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F502D1BA5EDCD0038AD2B /* module 02 */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50301BA5EDCD0038AD2B /* AppDelegate.swift */,
+				B52F50321BA5EDCD0038AD2B /* ViewController.swift */,
+				B52F50341BA5EDCD0038AD2B /* Main.storyboard */,
+				B52F50371BA5EDCD0038AD2B /* Images.xcassets */,
+				B52F50391BA5EDCD0038AD2B /* LaunchScreen.xib */,
+				B52F502E1BA5EDCD0038AD2B /* Supporting Files */,
+			);
+			path = "module 02";
+			sourceTree = "<group>";
+		};
+		B52F502E1BA5EDCD0038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F502F1BA5EDCD0038AD2B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F50531BA5EDDB0038AD2B /* module 03 */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50561BA5EDDB0038AD2B /* AppDelegate.swift */,
+				B52F50581BA5EDDB0038AD2B /* ViewController.swift */,
+				B52F505A1BA5EDDB0038AD2B /* Main.storyboard */,
+				B52F505D1BA5EDDB0038AD2B /* Images.xcassets */,
+				B52F505F1BA5EDDB0038AD2B /* LaunchScreen.xib */,
+				B52F50541BA5EDDB0038AD2B /* Supporting Files */,
+			);
+			path = "module 03";
+			sourceTree = "<group>";
+		};
+		B52F50541BA5EDDB0038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50551BA5EDDB0038AD2B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F50791BA5EE1C0038AD2B /* module 04 */ = {
+			isa = PBXGroup;
+			children = (
+				B52F507C1BA5EE1C0038AD2B /* AppDelegate.swift */,
+				B52F507E1BA5EE1C0038AD2B /* ViewController.swift */,
+				B52F50801BA5EE1C0038AD2B /* Main.storyboard */,
+				B52F50831BA5EE1C0038AD2B /* Images.xcassets */,
+				B52F50851BA5EE1C0038AD2B /* LaunchScreen.xib */,
+				B52F507A1BA5EE1C0038AD2B /* Supporting Files */,
+			);
+			path = "module 04";
+			sourceTree = "<group>";
+		};
+		B52F507A1BA5EE1C0038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F507B1BA5EE1C0038AD2B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F509A1BA5EE380038AD2B /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				B52F4FDD1BA5ECEC0038AD2B /* Les amis de la science */,
+				B52F509C1BA5EE550038AD2B /* Données */,
+				B52F509B1BA5EE450038AD2B /* Images */,
+			);
+			name = Ressources;
+			sourceTree = "<group>";
+		};
+		B52F509B1BA5EE450038AD2B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B52F513F1BA5EF4D0038AD2B /* Photos - Les amis de la science */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		B52F509C1BA5EE550038AD2B /* Données */ = {
+			isa = PBXGroup;
+			children = (
+				B52F51361BA5EF310038AD2B /* amisDelaScience.plist */,
+			);
+			name = "Données";
+			sourceTree = "<group>";
+		};
+		B52F509D1BA5EE660038AD2B /* Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50A31BA5EE7E0038AD2B /* module 01.solution */,
+				B52F50C91BA5EE8A0038AD2B /* module 02.solution */,
+				B52F50EF1BA5EE990038AD2B /* module 03.solution */,
+				B52F51151BA5EEA70038AD2B /* module 04.solution */,
+			);
+			name = Solutions;
+			sourceTree = "<group>";
+		};
+		B52F50A31BA5EE7E0038AD2B /* module 01.solution */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50A61BA5EE7E0038AD2B /* AppDelegate.swift */,
+				B52F50A81BA5EE7E0038AD2B /* ViewController.swift */,
+				B52F50AA1BA5EE7E0038AD2B /* Main.storyboard */,
+				B52F50AD1BA5EE7E0038AD2B /* Images.xcassets */,
+				B52F50AF1BA5EE7E0038AD2B /* LaunchScreen.xib */,
+				B52F50A41BA5EE7E0038AD2B /* Supporting Files */,
+			);
+			path = "module 01.solution";
+			sourceTree = "<group>";
+		};
+		B52F50A41BA5EE7E0038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50A51BA5EE7E0038AD2B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F50C91BA5EE8A0038AD2B /* module 02.solution */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50CC1BA5EE8A0038AD2B /* AppDelegate.swift */,
+				B52F50CE1BA5EE8A0038AD2B /* ViewController.swift */,
+				B52F50D01BA5EE8A0038AD2B /* Main.storyboard */,
+				B52F50D31BA5EE8A0038AD2B /* Images.xcassets */,
+				B52F50D51BA5EE8A0038AD2B /* LaunchScreen.xib */,
+				B52F50CA1BA5EE8A0038AD2B /* Supporting Files */,
+			);
+			path = "module 02.solution";
+			sourceTree = "<group>";
+		};
+		B52F50CA1BA5EE8A0038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50CB1BA5EE8A0038AD2B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F50EF1BA5EE990038AD2B /* module 03.solution */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50F21BA5EE990038AD2B /* AppDelegate.swift */,
+				B52F50F41BA5EE990038AD2B /* ViewController.swift */,
+				B52F50F61BA5EE990038AD2B /* Main.storyboard */,
+				B52F50F91BA5EE990038AD2B /* Images.xcassets */,
+				B52F50FB1BA5EE990038AD2B /* LaunchScreen.xib */,
+				B52F50F01BA5EE990038AD2B /* Supporting Files */,
+			);
+			path = "module 03.solution";
+			sourceTree = "<group>";
+		};
+		B52F50F01BA5EE990038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F50F11BA5EE990038AD2B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F51151BA5EEA70038AD2B /* module 04.solution */ = {
+			isa = PBXGroup;
+			children = (
+				B52F51181BA5EEA70038AD2B /* AppDelegate.swift */,
+				B52F511A1BA5EEA70038AD2B /* ViewController.swift */,
+				B52F511C1BA5EEA70038AD2B /* Main.storyboard */,
+				B52F511F1BA5EEA70038AD2B /* Images.xcassets */,
+				B52F51211BA5EEA70038AD2B /* LaunchScreen.xib */,
+				B52F51161BA5EEA70038AD2B /* Supporting Files */,
+			);
+			path = "module 04.solution";
+			sourceTree = "<group>";
+		};
+		B52F51161BA5EEA70038AD2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B52F51171BA5EEA70038AD2B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B52F513F1BA5EF4D0038AD2B /* Photos - Les amis de la science */ = {
+			isa = PBXGroup;
+			children = (
+				B52F51401BA5EF4D0038AD2B /* Albert Einstein.jpg */,
+				B52F51411BA5EF4D0038AD2B /* Albert Jacquard.jpg */,
+				B52F51421BA5EF4D0038AD2B /* Blaise Pascal.jpg */,
+				B52F51431BA5EF4D0038AD2B /* Braun.jpg */,
+				B52F51441BA5EF4D0038AD2B /* Christian Huygens.jpg */,
+				B52F51451BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg */,
+				B52F51461BA5EF4D0038AD2B /* Dennis Ritchie.jpg */,
+				B52F51471BA5EF4D0038AD2B /* Galilée.jpg */,
+				B52F51481BA5EF4D0038AD2B /* Henri Becquerel.jpg */,
+				B52F51491BA5EF4D0038AD2B /* Hertz.jpg */,
+				B52F514A1BA5EF4D0038AD2B /* Jean Perrin.jpg */,
+				B52F514B1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg */,
+				B52F514C1BA5EF4D0038AD2B /* Marie Curie.jpg */,
+				B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */,
+				B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */,
+				B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */,
+			);
+			path = "Photos - Les amis de la science";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,23 +646,141 @@
 			productReference = B52F4FDB1BA5ECEC0038AD2B /* Les amis de la science.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B52F4FEF1BA5ECEC0038AD2B /* Les amis de la scienceTests */ = {
+		B52F50041BA5ED6A0038AD2B /* module 01 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B52F4FFD1BA5ECEC0038AD2B /* Build configuration list for PBXNativeTarget "Les amis de la scienceTests" */;
+			buildConfigurationList = B52F50211BA5ED6A0038AD2B /* Build configuration list for PBXNativeTarget "module 01" */;
 			buildPhases = (
-				B52F4FEC1BA5ECEC0038AD2B /* Sources */,
-				B52F4FED1BA5ECEC0038AD2B /* Frameworks */,
-				B52F4FEE1BA5ECEC0038AD2B /* Resources */,
+				B52F50011BA5ED6A0038AD2B /* Sources */,
+				B52F50021BA5ED6A0038AD2B /* Frameworks */,
+				B52F50031BA5ED6A0038AD2B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				B52F4FF21BA5ECEC0038AD2B /* PBXTargetDependency */,
 			);
-			name = "Les amis de la scienceTests";
-			productName = "Les amis de la scienceTests";
-			productReference = B52F4FF01BA5ECEC0038AD2B /* Les amis de la scienceTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
+			name = "module 01";
+			productName = "module 01";
+			productReference = B52F50051BA5ED6A0038AD2B /* module 01.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B52F502B1BA5EDCD0038AD2B /* module 02 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B52F50481BA5EDCD0038AD2B /* Build configuration list for PBXNativeTarget "module 02" */;
+			buildPhases = (
+				B52F50281BA5EDCD0038AD2B /* Sources */,
+				B52F50291BA5EDCD0038AD2B /* Frameworks */,
+				B52F502A1BA5EDCD0038AD2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "module 02";
+			productName = "module 02";
+			productReference = B52F502C1BA5EDCD0038AD2B /* module 02.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B52F50511BA5EDDB0038AD2B /* module 03 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B52F506E1BA5EDDB0038AD2B /* Build configuration list for PBXNativeTarget "module 03" */;
+			buildPhases = (
+				B52F504E1BA5EDDB0038AD2B /* Sources */,
+				B52F504F1BA5EDDB0038AD2B /* Frameworks */,
+				B52F50501BA5EDDB0038AD2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "module 03";
+			productName = "module 03";
+			productReference = B52F50521BA5EDDB0038AD2B /* module 03.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B52F50771BA5EE1C0038AD2B /* module 04 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B52F50941BA5EE1C0038AD2B /* Build configuration list for PBXNativeTarget "module 04" */;
+			buildPhases = (
+				B52F50741BA5EE1C0038AD2B /* Sources */,
+				B52F50751BA5EE1C0038AD2B /* Frameworks */,
+				B52F50761BA5EE1C0038AD2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "module 04";
+			productName = "module 04";
+			productReference = B52F50781BA5EE1C0038AD2B /* module 04.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B52F50A11BA5EE7E0038AD2B /* module 01.solution */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B52F50BE1BA5EE7E0038AD2B /* Build configuration list for PBXNativeTarget "module 01.solution" */;
+			buildPhases = (
+				B52F509E1BA5EE7E0038AD2B /* Sources */,
+				B52F509F1BA5EE7E0038AD2B /* Frameworks */,
+				B52F50A01BA5EE7E0038AD2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "module 01.solution";
+			productName = "module 01.solution";
+			productReference = B52F50A21BA5EE7E0038AD2B /* module 01.solution.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B52F50C71BA5EE8A0038AD2B /* module 02.solution */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B52F50E41BA5EE8A0038AD2B /* Build configuration list for PBXNativeTarget "module 02.solution" */;
+			buildPhases = (
+				B52F50C41BA5EE8A0038AD2B /* Sources */,
+				B52F50C51BA5EE8A0038AD2B /* Frameworks */,
+				B52F50C61BA5EE8A0038AD2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "module 02.solution";
+			productName = "module 02.solution";
+			productReference = B52F50C81BA5EE8A0038AD2B /* module 02.solution.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B52F50ED1BA5EE990038AD2B /* module 03.solution */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B52F510A1BA5EE990038AD2B /* Build configuration list for PBXNativeTarget "module 03.solution" */;
+			buildPhases = (
+				B52F50EA1BA5EE990038AD2B /* Sources */,
+				B52F50EB1BA5EE990038AD2B /* Frameworks */,
+				B52F50EC1BA5EE990038AD2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "module 03.solution";
+			productName = "module 03.solution";
+			productReference = B52F50EE1BA5EE990038AD2B /* module 03.solution.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B52F51131BA5EEA70038AD2B /* module 04.solution */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B52F51301BA5EEA70038AD2B /* Build configuration list for PBXNativeTarget "module 04.solution" */;
+			buildPhases = (
+				B52F51101BA5EEA70038AD2B /* Sources */,
+				B52F51111BA5EEA70038AD2B /* Frameworks */,
+				B52F51121BA5EEA70038AD2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "module 04.solution";
+			productName = "module 04.solution";
+			productReference = B52F51141BA5EEA70038AD2B /* module 04.solution.app */;
+			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
@@ -162,9 +794,29 @@
 					B52F4FDA1BA5ECEC0038AD2B = {
 						CreatedOnToolsVersion = 6.4;
 					};
-					B52F4FEF1BA5ECEC0038AD2B = {
+					B52F50041BA5ED6A0038AD2B = {
 						CreatedOnToolsVersion = 6.4;
-						TestTargetID = B52F4FDA1BA5ECEC0038AD2B;
+					};
+					B52F502B1BA5EDCD0038AD2B = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					B52F50511BA5EDDB0038AD2B = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					B52F50771BA5EE1C0038AD2B = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					B52F50A11BA5EE7E0038AD2B = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					B52F50C71BA5EE8A0038AD2B = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					B52F50ED1BA5EE990038AD2B = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					B52F51131BA5EEA70038AD2B = {
+						CreatedOnToolsVersion = 6.4;
 					};
 				};
 			};
@@ -182,7 +834,14 @@
 			projectRoot = "";
 			targets = (
 				B52F4FDA1BA5ECEC0038AD2B /* Les amis de la science */,
-				B52F4FEF1BA5ECEC0038AD2B /* Les amis de la scienceTests */,
+				B52F50041BA5ED6A0038AD2B /* module 01 */,
+				B52F502B1BA5EDCD0038AD2B /* module 02 */,
+				B52F50511BA5EDDB0038AD2B /* module 03 */,
+				B52F50771BA5EE1C0038AD2B /* module 04 */,
+				B52F50A11BA5EE7E0038AD2B /* module 01.solution */,
+				B52F50C71BA5EE8A0038AD2B /* module 02.solution */,
+				B52F50ED1BA5EE990038AD2B /* module 03.solution */,
+				B52F51131BA5EEA70038AD2B /* module 04.solution */,
 			);
 		};
 /* End PBXProject section */
@@ -198,10 +857,219 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B52F4FEE1BA5ECEC0038AD2B /* Resources */ = {
+		B52F50031BA5ED6A0038AD2B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B52F51B01BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C01BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F51681BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F51981BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F500F1BA5ED6A0038AD2B /* Main.storyboard in Resources */,
+				B52F51701BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51801BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F51581BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F51371BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F51781BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51501BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51C81BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51901BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F50141BA5ED6A0038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51A81BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51601BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51B81BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A01BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F50111BA5ED6A0038AD2B /* Images.xcassets in Resources */,
+				B52F51881BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F502A1BA5EDCD0038AD2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F51B11BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C11BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F51691BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F51991BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F50361BA5EDCD0038AD2B /* Main.storyboard in Resources */,
+				B52F51711BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51811BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F51591BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F51381BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F51791BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51511BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51C91BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51911BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F503B1BA5EDCD0038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51A91BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51611BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51B91BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A11BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F50381BA5EDCD0038AD2B /* Images.xcassets in Resources */,
+				B52F51891BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50501BA5EDDB0038AD2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F51B21BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C21BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F516A1BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F519A1BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F505C1BA5EDDB0038AD2B /* Main.storyboard in Resources */,
+				B52F51721BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51821BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F515A1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F51391BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F517A1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51521BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51CA1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51921BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F50611BA5EDDB0038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51AA1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51621BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51BA1BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A21BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F505E1BA5EDDB0038AD2B /* Images.xcassets in Resources */,
+				B52F518A1BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50761BA5EE1C0038AD2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F51B31BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C31BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F516B1BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F519B1BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F50821BA5EE1C0038AD2B /* Main.storyboard in Resources */,
+				B52F51731BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51831BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F515B1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F513A1BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F517B1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51531BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51CB1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51931BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F50871BA5EE1C0038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51AB1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51631BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51BB1BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A31BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F50841BA5EE1C0038AD2B /* Images.xcassets in Resources */,
+				B52F518B1BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50A01BA5EE7E0038AD2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F51B41BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C41BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F516C1BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F519C1BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F50AC1BA5EE7E0038AD2B /* Main.storyboard in Resources */,
+				B52F51741BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51841BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F515C1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F513B1BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F517C1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51541BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51CC1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51941BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F50B11BA5EE7E0038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51AC1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51641BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51BC1BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A41BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F50AE1BA5EE7E0038AD2B /* Images.xcassets in Resources */,
+				B52F518C1BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50C61BA5EE8A0038AD2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F51B51BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C51BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F516D1BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F519D1BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F50D21BA5EE8A0038AD2B /* Main.storyboard in Resources */,
+				B52F51751BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51851BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F515D1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F513C1BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F517D1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51551BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51CD1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51951BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F50D71BA5EE8A0038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51AD1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51651BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51BD1BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A51BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F50D41BA5EE8A0038AD2B /* Images.xcassets in Resources */,
+				B52F518D1BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50EC1BA5EE990038AD2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F51B61BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C61BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F516E1BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F519E1BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F50F81BA5EE990038AD2B /* Main.storyboard in Resources */,
+				B52F51761BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51861BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F515E1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F513D1BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F517E1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51561BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51CE1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51961BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F50FD1BA5EE990038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51AE1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51661BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51BE1BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A61BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F50FA1BA5EE990038AD2B /* Images.xcassets in Resources */,
+				B52F518E1BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F51121BA5EEA70038AD2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F51B71BA5EF4D0038AD2B /* Marie Curie.jpg in Resources */,
+				B52F51C71BA5EF4D0038AD2B /* Steve Jobs.jpg in Resources */,
+				B52F516F1BA5EF4D0038AD2B /* Braun.jpg in Resources */,
+				B52F519F1BA5EF4D0038AD2B /* Hertz.jpg in Resources */,
+				B52F511E1BA5EEA70038AD2B /* Main.storyboard in Resources */,
+				B52F51771BA5EF4D0038AD2B /* Christian Huygens.jpg in Resources */,
+				B52F51871BA5EF4D0038AD2B /* Dennis Ritchie.jpg in Resources */,
+				B52F515F1BA5EF4D0038AD2B /* Albert Jacquard.jpg in Resources */,
+				B52F513E1BA5EF310038AD2B /* amisDelaScience.plist in Resources */,
+				B52F517F1BA5EF4D0038AD2B /* Daniel Fahrenheit.jpg in Resources */,
+				B52F51571BA5EF4D0038AD2B /* Albert Einstein.jpg in Resources */,
+				B52F51CF1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				B52F51971BA5EF4D0038AD2B /* Henri Becquerel.jpg in Resources */,
+				B52F51231BA5EEA70038AD2B /* LaunchScreen.xib in Resources */,
+				B52F51AF1BA5EF4D0038AD2B /* Karl Guthe Jansky.jpg in Resources */,
+				B52F51671BA5EF4D0038AD2B /* Blaise Pascal.jpg in Resources */,
+				B52F51BF1BA5EF4D0038AD2B /* maxwell.jpg in Resources */,
+				B52F51A71BA5EF4D0038AD2B /* Jean Perrin.jpg in Resources */,
+				B52F51201BA5EEA70038AD2B /* Images.xcassets in Resources */,
+				B52F518F1BA5EF4D0038AD2B /* Galilée.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,23 +1085,79 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B52F4FEC1BA5ECEC0038AD2B /* Sources */ = {
+		B52F50011BA5ED6A0038AD2B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B52F4FF71BA5ECEC0038AD2B /* Les_amis_de_la_scienceTests.swift in Sources */,
+				B52F500C1BA5ED6A0038AD2B /* ViewController.swift in Sources */,
+				B52F500A1BA5ED6A0038AD2B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50281BA5EDCD0038AD2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F50331BA5EDCD0038AD2B /* ViewController.swift in Sources */,
+				B52F50311BA5EDCD0038AD2B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F504E1BA5EDDB0038AD2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F50591BA5EDDB0038AD2B /* ViewController.swift in Sources */,
+				B52F50571BA5EDDB0038AD2B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50741BA5EE1C0038AD2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F507F1BA5EE1C0038AD2B /* ViewController.swift in Sources */,
+				B52F507D1BA5EE1C0038AD2B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F509E1BA5EE7E0038AD2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F50A91BA5EE7E0038AD2B /* ViewController.swift in Sources */,
+				B52F50A71BA5EE7E0038AD2B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50C41BA5EE8A0038AD2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F50CF1BA5EE8A0038AD2B /* ViewController.swift in Sources */,
+				B52F50CD1BA5EE8A0038AD2B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F50EA1BA5EE990038AD2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F50F51BA5EE990038AD2B /* ViewController.swift in Sources */,
+				B52F50F31BA5EE990038AD2B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B52F51101BA5EEA70038AD2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B52F511B1BA5EEA70038AD2B /* ViewController.swift in Sources */,
+				B52F51191BA5EEA70038AD2B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		B52F4FF21BA5ECEC0038AD2B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = B52F4FDA1BA5ECEC0038AD2B /* Les amis de la science */;
-			targetProxy = B52F4FF11BA5ECEC0038AD2B /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		B52F4FE41BA5ECEC0038AD2B /* Main.storyboard */ = {
@@ -248,6 +1172,134 @@
 			isa = PBXVariantGroup;
 			children = (
 				B52F4FEA1BA5ECEC0038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F500D1BA5ED6A0038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F500E1BA5ED6A0038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F50121BA5ED6A0038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50131BA5ED6A0038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F50341BA5EDCD0038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50351BA5EDCD0038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F50391BA5EDCD0038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F503A1BA5EDCD0038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F505A1BA5EDDB0038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F505B1BA5EDDB0038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F505F1BA5EDDB0038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50601BA5EDDB0038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F50801BA5EE1C0038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50811BA5EE1C0038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F50851BA5EE1C0038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50861BA5EE1C0038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F50AA1BA5EE7E0038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50AB1BA5EE7E0038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F50AF1BA5EE7E0038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50B01BA5EE7E0038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F50D01BA5EE8A0038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50D11BA5EE8A0038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F50D51BA5EE8A0038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50D61BA5EE8A0038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F50F61BA5EE990038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50F71BA5EE990038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F50FB1BA5EE990038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F50FC1BA5EE990038AD2B /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		B52F511C1BA5EEA70038AD2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F511D1BA5EEA70038AD2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B52F51211BA5EEA70038AD2B /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B52F51221BA5EEA70038AD2B /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -356,37 +1408,195 @@
 			};
 			name = Release;
 		};
-		B52F4FFE1BA5ECEC0038AD2B /* Debug */ = {
+		B52F50221BA5ED6A0038AD2B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Les amis de la scienceTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				INFOPLIST_FILE = "module 01/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Les amis de la science.app/Les amis de la science";
 			};
 			name = Debug;
 		};
-		B52F4FFF1BA5ECEC0038AD2B /* Release */ = {
+		B52F50231BA5ED6A0038AD2B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 01/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B52F50491BA5EDCD0038AD2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Les amis de la scienceTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				INFOPLIST_FILE = "module 02/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Les amis de la science.app/Les amis de la science";
+			};
+			name = Debug;
+		};
+		B52F504A1BA5EDCD0038AD2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 02/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B52F506F1BA5EDDB0038AD2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "module 03/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B52F50701BA5EDDB0038AD2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 03/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B52F50951BA5EE1C0038AD2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "module 04/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B52F50961BA5EE1C0038AD2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 04/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B52F50BF1BA5EE7E0038AD2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "module 01.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B52F50C01BA5EE7E0038AD2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 01.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B52F50E51BA5EE8A0038AD2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "module 02.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B52F50E61BA5EE8A0038AD2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 02.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B52F510B1BA5EE990038AD2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "module 03.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B52F510C1BA5EE990038AD2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 03.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B52F51311BA5EEA70038AD2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "module 04.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B52F51321BA5EEA70038AD2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "module 04.solution/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
@@ -410,11 +1620,67 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		B52F4FFD1BA5ECEC0038AD2B /* Build configuration list for PBXNativeTarget "Les amis de la scienceTests" */ = {
+		B52F50211BA5ED6A0038AD2B /* Build configuration list for PBXNativeTarget "module 01" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B52F4FFE1BA5ECEC0038AD2B /* Debug */,
-				B52F4FFF1BA5ECEC0038AD2B /* Release */,
+				B52F50221BA5ED6A0038AD2B /* Debug */,
+				B52F50231BA5ED6A0038AD2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B52F50481BA5EDCD0038AD2B /* Build configuration list for PBXNativeTarget "module 02" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B52F50491BA5EDCD0038AD2B /* Debug */,
+				B52F504A1BA5EDCD0038AD2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B52F506E1BA5EDDB0038AD2B /* Build configuration list for PBXNativeTarget "module 03" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B52F506F1BA5EDDB0038AD2B /* Debug */,
+				B52F50701BA5EDDB0038AD2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B52F50941BA5EE1C0038AD2B /* Build configuration list for PBXNativeTarget "module 04" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B52F50951BA5EE1C0038AD2B /* Debug */,
+				B52F50961BA5EE1C0038AD2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B52F50BE1BA5EE7E0038AD2B /* Build configuration list for PBXNativeTarget "module 01.solution" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B52F50BF1BA5EE7E0038AD2B /* Debug */,
+				B52F50C01BA5EE7E0038AD2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B52F50E41BA5EE8A0038AD2B /* Build configuration list for PBXNativeTarget "module 02.solution" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B52F50E51BA5EE8A0038AD2B /* Debug */,
+				B52F50E61BA5EE8A0038AD2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B52F510A1BA5EE990038AD2B /* Build configuration list for PBXNativeTarget "module 03.solution" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B52F510B1BA5EE990038AD2B /* Debug */,
+				B52F510C1BA5EE990038AD2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B52F51301BA5EEA70038AD2B /* Build configuration list for PBXNativeTarget "module 04.solution" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B52F51311BA5EEA70038AD2B /* Debug */,
+				B52F51321BA5EEA70038AD2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
