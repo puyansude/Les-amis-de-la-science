@@ -188,6 +188,7 @@
 		B52F51CD1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
 		B52F51CE1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
 		B52F51CF1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */; };
+		B59A156B1D6CE7BA007B5E3B /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B59A156A1D6CE7BA007B5E3B /* README.md */; };
 		B5AE42B31BA6004B000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
 		B5AE42B41BA604F7000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
 		B5AE42B51BA6061B000CF83E /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AE42B21BA6004B000CF83E /* Savant.swift */; };
@@ -280,6 +281,7 @@
 		B52F514D1BA5EF4D0038AD2B /* maxwell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxwell.jpg; sourceTree = "<group>"; };
 		B52F514E1BA5EF4D0038AD2B /* Steve Jobs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Steve Jobs.jpg"; sourceTree = "<group>"; };
 		B52F514F1BA5EF4D0038AD2B /* Wilhelm Conrad Rontgen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wilhelm Conrad Rontgen.jpg"; sourceTree = "<group>"; };
+		B59A156A1D6CE7BA007B5E3B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B5AE42B21BA6004B000CF83E /* Savant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Savant.swift; sourceTree = "<group>"; };
 		B5AE42B61BA60CAE000CF83E /* CVCSavant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CVCSavant.swift; sourceTree = "<group>"; };
 		B5AE42BB1BA61512000CF83E /* VCDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VCDetails.swift; sourceTree = "<group>"; };
@@ -355,6 +357,7 @@
 		B52F4FD21BA5ECEC0038AD2B = {
 			isa = PBXGroup;
 			children = (
+				B59A156A1D6CE7BA007B5E3B /* README.md */,
 				B52F50001BA5ECFA0038AD2B /* Départs */,
 				B52F509D1BA5EE660038AD2B /* Solutions */,
 				B52F509A1BA5EE380038AD2B /* Ressources */,
@@ -1121,6 +1124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B59A156B1D6CE7BA007B5E3B /* README.md in Sources */,
 				B52F4FE31BA5ECEC0038AD2B /* ViewController.swift in Sources */,
 				B52F4FE11BA5ECEC0038AD2B /* AppDelegate.swift in Sources */,
 			);
