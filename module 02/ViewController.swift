@@ -46,23 +46,23 @@ class ViewController: UIViewController, UITableViewDataSource {
     
     // MARK: - Méthodes de protocole du UITableView
     
-    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return lesAmisDeLaScienceData.count
     }
     
     // *****************************************************
-    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
         var celluleCourante:Savant
         
         // Depuis Xcode 6, dequeueReusableCellWithIdentifier retourne une cellule vide
         // si aucune de disponible en recyclage.
-        celluleCourante = tableView.dequeueReusableCellWithIdentifier("celluleSavant") as! Savant
+        celluleCourante = tableView.dequeueReusableCell(withIdentifier: "celluleSavant") as! Savant
         
         // Ici, nous avons une nouvelle cellule ou une cellule recyclée!
-        celluleCourante.savantNom.text = lesAmisDeLaScienceData[indexPath.row]["nom"]!
-        celluleCourante.savantTexte.text = lesAmisDeLaScienceData[indexPath.row]["texte"]!
-        celluleCourante.savantImage.image = UIImage(named: lesAmisDeLaScienceData[indexPath.row]["photo"]!)
+        celluleCourante.savantNom.text = lesAmisDeLaScienceData[(indexPath as NSIndexPath).row]["nom"]!
+        celluleCourante.savantTexte.text = lesAmisDeLaScienceData[(indexPath as NSIndexPath).row]["texte"]!
+        celluleCourante.savantImage.image = UIImage(named: lesAmisDeLaScienceData[(indexPath as NSIndexPath).row]["photo"]!)
         return celluleCourante
     } // tableView: cellForRowAtIndexPath
     

@@ -10,16 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var CVSavant: UICollectionView!
+
     var lesAmisDeLaScienceData:[Dictionary<String,String>] = []
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        @IBOutlet weak var CVSavant: UICollectionView!
         // Chargement des données
-        let pathFichierPlist = NSBundle.mainBundle().pathForResource("amisDelaScience", ofType: "plist")!
+        let pathFichierPlist = Bundle.main.path(forResource: "amisDelaScience", ofType: "plist")!
         lesAmisDeLaScienceData = NSArray(contentsOfFile: pathFichierPlist) as! Array
         
-        println(lesAmisDeLaScienceData)
+        print(lesAmisDeLaScienceData)
     }
 
 

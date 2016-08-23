@@ -14,8 +14,8 @@ class VCDetails: UIViewController {
     @IBOutlet weak var savantImage: UIImageView!
     @IBOutlet weak var savantTexte: UITextView!
     
-    @IBAction func retourALaListe(sender: AnyObject) {
- self.dismissViewControllerAnimated(true, completion:nil)
+    @IBAction func retourALaListe(_ sender: AnyObject) {
+ self.dismiss(animated: true, completion:nil)
     
     }
     
@@ -24,7 +24,7 @@ class VCDetails: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        println("Nous avons reçu les données suivantes:\n\(informationsDuSavantCourant)")
+        print("# Nous avons reçu les données suivantes:\n\(informationsDuSavantCourant)\n")
         
         savantNom.text      = informationsDuSavantCourant["nom"]!
         savantImage.image   =  UIImage(named: informationsDuSavantCourant["photo"]!)
