@@ -68,7 +68,7 @@ class ViewController: UIViewController, UICollectionViewDataSource {
     // MARK: - Préparation du segue
     
     // Méthode exécutée automatiquement avant un segue
-    override func prepare(for segue: UIStoryboardSegue, sender: AnyObject?) {
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         
         let selection = (CVSavant.indexPath(for: sender as! UICollectionViewCell)! as NSIndexPath).row
         
