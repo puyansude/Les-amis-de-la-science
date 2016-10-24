@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController, UICollectionViewDataSource {
+class ViewControllerModule04D: UIViewController, UICollectionViewDataSource {
     
     var lesAmisDeLaScienceData:[Dictionary<String,String>] = []
     

@@ -9,7 +9,7 @@
 
 import UIKit
 
-class ViewController: UIViewController, UITableViewDataSource {
+class ViewControllerModule02D: UIViewController, UITableViewDataSource {
     
     let lesAmisDeLaScienceData:[Dictionary<String,String>] = [
         

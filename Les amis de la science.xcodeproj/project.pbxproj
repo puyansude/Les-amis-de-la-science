@@ -13,22 +13,22 @@
 		B52F4FE81BA5ECEC0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F4FE71BA5ECEC0038AD2B /* Images.xcassets */; };
 		B52F4FEB1BA5ECEC0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F4FE91BA5ECEC0038AD2B /* LaunchScreen.xib */; };
 		B52F500A1BA5ED6A0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */; };
-		B52F500C1BA5ED6A0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F500B1BA5ED6A0038AD2B /* ViewController.swift */; };
+		B52F500C1BA5ED6A0038AD2B /* ViewControllerModule01D.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F500B1BA5ED6A0038AD2B /* ViewControllerModule01D.swift */; };
 		B52F500F1BA5ED6A0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F500D1BA5ED6A0038AD2B /* Main.storyboard */; };
 		B52F50111BA5ED6A0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50101BA5ED6A0038AD2B /* Images.xcassets */; };
 		B52F50141BA5ED6A0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50121BA5ED6A0038AD2B /* LaunchScreen.xib */; };
 		B52F50311BA5EDCD0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50301BA5EDCD0038AD2B /* AppDelegate.swift */; };
-		B52F50331BA5EDCD0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50321BA5EDCD0038AD2B /* ViewController.swift */; };
+		B52F50331BA5EDCD0038AD2B /* ViewControllerModule02D.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50321BA5EDCD0038AD2B /* ViewControllerModule02D.swift */; };
 		B52F50361BA5EDCD0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F50341BA5EDCD0038AD2B /* Main.storyboard */; };
 		B52F50381BA5EDCD0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50371BA5EDCD0038AD2B /* Images.xcassets */; };
 		B52F503B1BA5EDCD0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50391BA5EDCD0038AD2B /* LaunchScreen.xib */; };
 		B52F50571BA5EDDB0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50561BA5EDDB0038AD2B /* AppDelegate.swift */; };
-		B52F50591BA5EDDB0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50581BA5EDDB0038AD2B /* ViewController.swift */; };
+		B52F50591BA5EDDB0038AD2B /* ViewControllerModule03D.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F50581BA5EDDB0038AD2B /* ViewControllerModule03D.swift */; };
 		B52F505C1BA5EDDB0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F505A1BA5EDDB0038AD2B /* Main.storyboard */; };
 		B52F505E1BA5EDDB0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F505D1BA5EDDB0038AD2B /* Images.xcassets */; };
 		B52F50611BA5EDDB0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F505F1BA5EDDB0038AD2B /* LaunchScreen.xib */; };
 		B52F507D1BA5EE1C0038AD2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F507C1BA5EE1C0038AD2B /* AppDelegate.swift */; };
-		B52F507F1BA5EE1C0038AD2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F507E1BA5EE1C0038AD2B /* ViewController.swift */; };
+		B52F507F1BA5EE1C0038AD2B /* ViewControllerModule04D.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52F507E1BA5EE1C0038AD2B /* ViewControllerModule04D.swift */; };
 		B52F50821BA5EE1C0038AD2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B52F50801BA5EE1C0038AD2B /* Main.storyboard */; };
 		B52F50841BA5EE1C0038AD2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B52F50831BA5EE1C0038AD2B /* Images.xcassets */; };
 		B52F50871BA5EE1C0038AD2B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B52F50851BA5EE1C0038AD2B /* LaunchScreen.xib */; };
@@ -211,28 +211,28 @@
 		B52F50051BA5ED6A0038AD2B /* module 01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 01.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B52F50081BA5ED6A0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B52F500B1BA5ED6A0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F500B1BA5ED6A0038AD2B /* ViewControllerModule01D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerModule01D.swift; sourceTree = "<group>"; };
 		B52F500E1BA5ED6A0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B52F50101BA5ED6A0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B52F50131BA5ED6A0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		B52F502C1BA5EDCD0038AD2B /* module 02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 02.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B52F502F1BA5EDCD0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B52F50301BA5EDCD0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B52F50321BA5EDCD0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F50321BA5EDCD0038AD2B /* ViewControllerModule02D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerModule02D.swift; sourceTree = "<group>"; };
 		B52F50351BA5EDCD0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B52F50371BA5EDCD0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B52F503A1BA5EDCD0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		B52F50521BA5EDDB0038AD2B /* module 03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 03.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B52F50551BA5EDDB0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B52F50561BA5EDDB0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B52F50581BA5EDDB0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F50581BA5EDDB0038AD2B /* ViewControllerModule03D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerModule03D.swift; sourceTree = "<group>"; };
 		B52F505B1BA5EDDB0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B52F505D1BA5EDDB0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B52F50601BA5EDDB0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		B52F50781BA5EE1C0038AD2B /* module 04.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 04.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B52F507B1BA5EE1C0038AD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B52F507C1BA5EE1C0038AD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B52F507E1BA5EE1C0038AD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B52F507E1BA5EE1C0038AD2B /* ViewControllerModule04D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerModule04D.swift; sourceTree = "<group>"; };
 		B52F50811BA5EE1C0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B52F50831BA5EE1C0038AD2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B52F50861BA5EE1C0038AD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -418,7 +418,7 @@
 			children = (
 				B5AE42C01BA62528000CF83E /* Les classes */,
 				B52F50091BA5ED6A0038AD2B /* AppDelegate.swift */,
-				B52F500B1BA5ED6A0038AD2B /* ViewController.swift */,
+				B52F500B1BA5ED6A0038AD2B /* ViewControllerModule01D.swift */,
 				B52F500D1BA5ED6A0038AD2B /* Main.storyboard */,
 				B52F50101BA5ED6A0038AD2B /* Images.xcassets */,
 				B52F50121BA5ED6A0038AD2B /* LaunchScreen.xib */,
@@ -439,7 +439,7 @@
 			isa = PBXGroup;
 			children = (
 				B52F50301BA5EDCD0038AD2B /* AppDelegate.swift */,
-				B52F50321BA5EDCD0038AD2B /* ViewController.swift */,
+				B52F50321BA5EDCD0038AD2B /* ViewControllerModule02D.swift */,
 				B52F50341BA5EDCD0038AD2B /* Main.storyboard */,
 				B52F50371BA5EDCD0038AD2B /* Images.xcassets */,
 				B52F50391BA5EDCD0038AD2B /* LaunchScreen.xib */,
@@ -460,7 +460,7 @@
 			isa = PBXGroup;
 			children = (
 				B52F50561BA5EDDB0038AD2B /* AppDelegate.swift */,
-				B52F50581BA5EDDB0038AD2B /* ViewController.swift */,
+				B52F50581BA5EDDB0038AD2B /* ViewControllerModule03D.swift */,
 				B52F505A1BA5EDDB0038AD2B /* Main.storyboard */,
 				B52F505D1BA5EDDB0038AD2B /* Images.xcassets */,
 				B52F505F1BA5EDDB0038AD2B /* LaunchScreen.xib */,
@@ -481,7 +481,7 @@
 			isa = PBXGroup;
 			children = (
 				B52F507C1BA5EE1C0038AD2B /* AppDelegate.swift */,
-				B52F507E1BA5EE1C0038AD2B /* ViewController.swift */,
+				B52F507E1BA5EE1C0038AD2B /* ViewControllerModule04D.swift */,
 				B52F50801BA5EE1C0038AD2B /* Main.storyboard */,
 				B52F50831BA5EE1C0038AD2B /* Images.xcassets */,
 				B52F50851BA5EE1C0038AD2B /* LaunchScreen.xib */,
@@ -1134,7 +1134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B52F500C1BA5ED6A0038AD2B /* ViewController.swift in Sources */,
+				B52F500C1BA5ED6A0038AD2B /* ViewControllerModule01D.swift in Sources */,
 				B52F500A1BA5ED6A0038AD2B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1143,7 +1143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B52F50331BA5EDCD0038AD2B /* ViewController.swift in Sources */,
+				B52F50331BA5EDCD0038AD2B /* ViewControllerModule02D.swift in Sources */,
 				B52F50311BA5EDCD0038AD2B /* AppDelegate.swift in Sources */,
 				B5AE42B41BA604F7000CF83E /* Savant.swift in Sources */,
 			);
@@ -1154,7 +1154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5AE42B71BA60CAE000CF83E /* CVCSavant.swift in Sources */,
-				B52F50591BA5EDDB0038AD2B /* ViewController.swift in Sources */,
+				B52F50591BA5EDDB0038AD2B /* ViewControllerModule03D.swift in Sources */,
 				B52F50571BA5EDDB0038AD2B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1165,7 +1165,7 @@
 			files = (
 				B5AE42B81BA60CAE000CF83E /* CVCSavant.swift in Sources */,
 				B5AE42BC1BA61512000CF83E /* VCDetails.swift in Sources */,
-				B52F507F1BA5EE1C0038AD2B /* ViewController.swift in Sources */,
+				B52F507F1BA5EE1C0038AD2B /* ViewControllerModule04D.swift in Sources */,
 				B52F507D1BA5EE1C0038AD2B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

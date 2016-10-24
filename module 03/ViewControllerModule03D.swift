@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewControllerModule03D: UIViewController {
 
     @IBOutlet weak var CVSavant: UICollectionView!
 
