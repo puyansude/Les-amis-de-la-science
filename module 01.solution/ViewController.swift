@@ -36,10 +36,12 @@ class ViewController: UIViewController, UITableViewDataSource {
         // *****************************************************
     {
         super.viewDidLoad()
-        
-        // let uneImage = UIImageView(image: UIImage(named: lesAmisDeLaScienceData[0]["photo"]!))
-        // view.addSubview(uneImage)
-        
+        /*
+        if let nomFichierImage = lesAmisDeLaScienceData[0]["photo"] {
+            let uneImage = UIImageView(image: UIImage(named: nomFichierImage))
+            view.addSubview(uneImage)
+        }
+        */
     } // viewDidLoad
     
     

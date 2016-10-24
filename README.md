@@ -11,7 +11,7 @@ Introduction à UITableView et UICollectionView
 Mise à jour: 
 
 2016.08.23 - Migration vers Xcode 8 et swift 3
-
+2016.10.16 - Voir: http://www.learncoredata.com/plist/
 ---------------------------------------------------
 Projet préparé par **Alain Boudreault**, aka [ve2cuy](http://ve2cuy.wordpress.com/), aka [puyansude](http://www.youtube.com/puyansude).
 
